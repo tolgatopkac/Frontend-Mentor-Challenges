@@ -34,6 +34,11 @@
 - **Solution** [Preview](https://clipboardlandingpageproject.netlify.app/)
 - Challenge [Link](https://www.frontendmentor.io/solutions/clipboard-landing-page-with-tailwindcss-UqjUf14RAB)
 
+#### 3) Fylo dark theme landing page
+
+- **Solution** [Preview](https://62efe35a6dd43622289736a3--preeminent-souffle-29a501.netlify.app/)
+- Challenge [Link](https://www.frontendmentor.io/solutions/fylo-dark-theme-with-tailwindcss-upPvO3g6vh)
+
 #### 3) Testimonials grid section
 
 - **Solution** [Preview](https://sweet-bonbon-5e726b.netlify.app/)
