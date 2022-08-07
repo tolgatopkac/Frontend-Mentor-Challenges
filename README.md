@@ -50,3 +50,8 @@
 
 - **Solution** [Preview](https://effervescent-froyo-05572c.netlify.app/)
 - Challenge [Link](https://www.frontendmentor.io/solutions/shortening-landing-page-with-tailwindcss-for-now-htmlcssjs-2GU-z7VyBM)
+
+#### 2) Bookmark landing page
+
+- **Solution** [Preview](https://62f032bee9b20f55423aacd5--jolly-conkies-7b556c.netlify.app/)
+- Challenge [Link](https://www.frontendmentor.io/solutions/bookmark-landing-page-with-tailwindcss-DptZl9aonk)
