@@ -21,3 +21,27 @@
 
 - **Solution** [Preview](https://62d849b84233cb1e23c814aa--ornate-biscuit-57b53b.netlify.app/)
 - Challenge [Link](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-f7BLbn5N3F)
+
+## Junior
+
+#### 1) Loopstudios landing page
+
+- **Solution** [Preview](https://zippy-souffle-0b3dc9.netlify.app/)
+- Challenge [Link](https://www.frontendmentor.io/solutions/loopstudios-landing-page-with-tailwindcss-0IXQbffRcO)
+
+#### 2) Clipboard landing page
+
+- **Solution** [Preview](https://clipboardlandingpageproject.netlify.app/)
+- Challenge [Link](https://www.frontendmentor.io/solutions/clipboard-landing-page-with-tailwindcss-UqjUf14RAB)
+
+#### 3) Testimonials grid section
+
+- **Solution** [Preview](https://sweet-bonbon-5e726b.netlify.app/)
+- Challenge [Link](https://www.frontendmentor.io/solutions/testimonials-grid-section-with-tailwindcss-PVknB_wkqv)
+
+## Intermediate
+
+#### 1) Shortening Landing page
+
+- **Solution** [Preview](https://effervescent-froyo-05572c.netlify.app/)
+- Challenge [Link](https://www.frontendmentor.io/solutions/shortening-landing-page-with-tailwindcss-for-now-htmlcssjs-2GU-z7VyBM)
