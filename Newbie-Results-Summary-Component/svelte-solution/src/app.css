@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+	.gradient-bg {
+		background: linear-gradient(180deg, #75f 0%, #6943ff 0.01%, #2f2ce9 100%);
+	}
+	.result-gradient-bg {
+		background: linear-gradient(
+			180deg,
+			#4d21c9 0%,
+			rgba(37, 33, 201, 0) 100%,
+			rgba(37, 33, 201, 0) 100%
+		);
+	}
+	.gradient-bg-2 {
+		background: linear-gradient(
+			180deg,
+			#4d21c9 0%,
+			rgba(37, 33, 201, 0) 100%,
+			rgba(37, 33, 201, 0) 100%
+		);
+	}
+	.gradient-bg-2:hover {
+		background: linear-gradient(180deg, #303b59 0%, #303b59, #303b59);
+	}
+}
+
+@font-face {
+	font-family: 'HankenGroteskMedium';
+	src: url('./lib/assets/fonts/static/HankenGrotesk-Medium.ttf');
+}
+
+@font-face {
+	font-family: 'HankenGroteskBold';
+	src: url('./lib/assets/fonts/static/HankenGrotesk-Bold.ttf');
+}
+
+@font-face {
+	font-family: 'HankenGroteskExtraBold';
+	src: url('./lib/assets/fonts/static/HankenGrotesk-ExtraBold.ttf');
+}
