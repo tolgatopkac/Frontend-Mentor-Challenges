@@ -22,10 +22,10 @@
 - **Solution** [Preview](https://62d849b84233cb1e23c814aa--ornate-biscuit-57b53b.netlify.app/)
 - Challenge [Link](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-f7BLbn5N3F)
 
-#### 4) Results summary component (Svelte - Tailwind)
+#### 5) Results summary component (Svelte - Tailwind)
 
 - **Solution** [Preview](https://frontend-mentor-challenges-indol.vercel.app/)
-- Challenge [Link](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
+- Challenge [Link](https://www.frontendmentor.io/solutions/results-summary-component-svelte-tailwind-ftOE_iK19m)
 
 ## Junior
 
