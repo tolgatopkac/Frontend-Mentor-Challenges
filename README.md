@@ -54,6 +54,11 @@
 - **Solution** [Preview](https://62fafa712735c33dfc5d3a48--eclectic-sherbet-0fd36f.netlify.app/)
 - Challenge [Link](https://www.frontendmentor.io/solutions/huddle-landing-page-with-react-tailwidcss--uwqBSi6VO)
 
+#### 5) Newsletter sign-up form with success message ( Svelte - Tailwind CSS)
+
+- **Solution** [Preview](https://main--frabjous-biscochitos-ff988e.netlify.app/)
+- Challenge [Link](https://www.frontendmentor.io/solutions/newsletter-signup-sveltekit-tailwind-F4WjM-3q4q)
+
 ## Intermediate
 
 #### 1) Shortening Landing page (HTML - CSS - JS)
