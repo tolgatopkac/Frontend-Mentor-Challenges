@@ -1,0 +1,58 @@
+@import 'tailwindcss';
+
+/* Young Serif */
+
+.young-serif-regular {
+	font-family: 'Young Serif', serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.outfit-serif-regular {
+	font-family: 'Outfit', serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.outfit-serif-medium {
+	font-family: 'Outfit', serif;
+	font-weight: 600;
+	font-style: normal;
+}
+
+.outfit-serif-bold {
+	font-family: 'Outfit', serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+@theme {
+	--color-*: initial;
+	--color-nutmeg: hsl(14, 45%, 36%);
+	--color-dark-raspberry: hsl(332, 51%, 32%);
+
+	--color-white: hsl(0, 0%, 100%);
+	--color-rose-white: hsl(330, 100%, 98%);
+	--color-eggshell: hsl(30, 54%, 90%);
+	--color-light-grey: hsl(30, 18%, 87%);
+	--color-wenge-brown: hsl(30, 10%, 34%);
+	--color-dark-charcoal: hsl(30, 10%, 21%);
+
+	--font-family-young: 'Young Serif', serif;
+	--font-family-outfit: 'Outfit', serif;
+}
+
+:root {
+	--nutmeg: var(--color-nutmeg);
+	--dark-raspberry: var(--color-dark-raspberry);
+
+	--white: var(--color-white);
+	--rose-white: var(--color-rose-white);
+	--eggshell: var(--color-eggshell);
+	--light-grey: var(--color-light-grey);
+	--wenge-brown: var(--color-wenge-brown);
+	--dark-charcoal: var(--color-dark-charcoal);
+
+	--font-family-young: var(--font-family-young);
+	--font-family-outfit: var(--font-family-outfit);
+}
