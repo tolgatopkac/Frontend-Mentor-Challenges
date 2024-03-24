@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Omelette from '$lib/assets/omelette.jpeg';
+	import Omelette from '$lib/img/omelette.jpeg';
 </script>
 
 <main class="lg:p-12 text-base flex flex-col gap-6 text-dark-charcoal font-outfit mb-12">
