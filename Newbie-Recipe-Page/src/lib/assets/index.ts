@@ -1,3 +1,3 @@
-import Omelette from './Omelette.jpeg';
+import Omelette from './omelette.jpeg';
 
 export { Omelette };
