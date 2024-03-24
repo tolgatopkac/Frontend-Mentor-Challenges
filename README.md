@@ -32,6 +32,11 @@
 - **Solution** [Preview](https://jazzy-eclair-ed2a16.netlify.app/)
 - Challenge [Link](https://www.frontendmentor.io/solutions/nft-preview-card-component-svelte-tailwind-6dfQpbm__B)
 
+#### 7) Recipe Page ( Svelte v5 - Tailwind v4 )
+
+- **Solution** [Preview](https://frontend-mentor-challenges-9d98-5qvy0qm9b-tolgatopkac.vercel.app/)
+- Challenge [Link](https://www.frontendmentor.io/solutions/recipe-page-tailwind-v4-andand-svelte-v5-cgs4B1uk5U)
+
 ## Junior
 
 #### 1) Loopstudios landing page (Tailwind CSS)
